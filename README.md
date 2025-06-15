@@ -2,6 +2,7 @@
 
 # Cyber Security Internship Task 8: VPN + Browser Audit
 
+
 ## 🔐 VPN Setup Summary
 
 - **VPN Service:** ProtonVPN
